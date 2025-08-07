@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Silpa Babu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate at Iowa State University"
+  bio              : "Ph.D. Candidate"
+  employer         : "Iowa State University"
   location         : "Ames, IA"
-  employer         : "Red Brick University"
-  uri              : # URL
+  #uri              : # URL
   email            : "sbabu@iastate.edu" 
 
   # Academic websites
