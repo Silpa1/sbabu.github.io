@@ -7,7 +7,6 @@ author_profile: true
 
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=IGGQox0AAAAJ&hl=en&oi=ao).
 
----
 
 ## Preprints
 ---
