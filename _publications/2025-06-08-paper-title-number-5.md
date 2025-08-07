@@ -8,6 +8,8 @@ author_profile: true
 *Recommended citation style below each title.*
 
 ---
+- **S. Babu**, S. G. Lingala and N. Vaswani, ["Low Latency and Generalizable Dynamic MRI via L+S Alternating GD and Minimization"]( 
+https://doi.org/10.48550/arXiv.2502.19220), *under review, IEEE Transactions on Computational Imaging, 2025*.
 - **S. Babu**, S. G. Lingala and N. Vaswani, ["Fast Low Rank Column-Wise Compressive Sensing for Accelerated Dynamic MRI"](https://ieeexplore.ieee.org/abstract/document/10103217), *IEEE Transactions on Computational Imaging*, vol. 9, pp. 409-424, 2023.
 - **S. Babu**, W. Alam, R. Z. Rusho, S. Goud Lingala and N. Vaswani, ["Generalizable Real-time Accelerated Dynamic MRI"](https://ieeexplore.ieee.org/abstract/document/10888799),*ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Hyderabad, India, 2025, pp. 1-5.
 - **S. Babu** and N. Vaswani, ["A Fast Algorithm for Low Rank + Sparse column-wise Compressive Sensing"](https://ieeexplore.ieee.org/abstract/document/10313478), *2023 59th Annual Allerton Conference on Communication, Control, and Computing (Allerton)*, Monticello, IL, USA, 2023, pp. 1-6.
