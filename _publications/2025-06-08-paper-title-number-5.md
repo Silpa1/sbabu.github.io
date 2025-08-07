@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Recommended citation style below each title.*
+#*Recommended citation style below each title.*
 
 ---
 - **S. Babu**, S. G. Lingala and N. Vaswani, ["Low Latency and Generalizable Dynamic MRI via L+S Alternating GD and Minimization"]( 
