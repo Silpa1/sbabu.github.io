@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+category: conferences
 permalink: /publications/
 author_profile: true
 ---
