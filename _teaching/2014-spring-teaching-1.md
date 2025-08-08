@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Iowa State University, ECpE Department"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+
+Teaching Assistant: (EE322) Probabilistic Methods for Electrical Engineers, Spring 2021.
 ======
 
-Heading 2
+Teaching Assistant: (EE224) Signals and Systems, Fall 2021.
 ======
 
-Heading 3
-======
