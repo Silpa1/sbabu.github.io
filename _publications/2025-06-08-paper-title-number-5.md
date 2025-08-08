@@ -13,6 +13,7 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
 - **S. Babu**, S. G. Lingala and N. Vaswani, ["Low Latency and Generalizable Dynamic MRI via L+S Alternating GD and Minimization"]( 
 https://doi.org/10.48550/arXiv.2502.19220), *under review, IEEE Transactions on Computational Imaging, 2025*.
 ---
+
 ## Journals
 ---
 - **S. Babu**, S. G. Lingala and N. Vaswani, ["Fast Low Rank Column-Wise Compressive Sensing for Accelerated Dynamic MRI"](https://ieeexplore.ieee.org/abstract/document/10103217), *IEEE Transactions on Computational Imaging*, vol. 9, pp. 409-424, 2023.
