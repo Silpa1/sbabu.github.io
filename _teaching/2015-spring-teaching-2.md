@@ -5,8 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Iowa State University  
+## Teaching Assistant at Iowa State University  
 **Department of Electrical and Computer Engineering (ECpE)**  
 
-- Teaching Assistant: **EE322 – Probabilistic Methods for Electrical Engineers**, Spring 2021
-- Teaching Assistant: **EE224 - Signals and Systems**, Fall 2021.
+- **EE322 – Probabilistic Methods for Electrical Engineers**, Spring 2021
+- **EE224 - Signals and Systems**, Fall 2021.
