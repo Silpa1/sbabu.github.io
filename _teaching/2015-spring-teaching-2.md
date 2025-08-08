@@ -7,11 +7,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 
-## Preprints
+## At Iowa State University
 ---
-- **S. Babu**, S. G. Lingala and N. Vaswani, ["Low Latency and Generalizable Dynamic MRI via L+S Alternating GD and Minimization"]( 
-https://doi.org/10.48550/arXiv.2502.19220), *under review, IEEE Transactions on Computational Imaging, 2025*.
+- Teaching Assistant: (EE322) Probabilistic Methods for Electrical Engineers, Spring 2021.
+- Teaching Assistant: (EE224) Signals and Systems, Fall 2021.
 ---
