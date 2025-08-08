@@ -1,12 +1,5 @@
 
 
----
-title: "Teaching"
-permalink: /teaching/
-author_profile: true
----
-
-
 
 ## At Iowa State University
 ---
